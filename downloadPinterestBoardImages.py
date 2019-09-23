@@ -7,7 +7,7 @@
 
     browser = webdriver.Firefox(executable_path=r'geckodriver.exe')
 
-    link=raw_input("Paste Board Link:") 
+    link="pinterest board lik" #the pinterest board link
     browser.get(link)
 
     time.sleep(2)
