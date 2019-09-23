@@ -2,6 +2,8 @@
 A python script that downloads all images of a pinterest board.
 Written in Python 2.7
 
+The script collects all the urls of the page and after that it filters the url list to keep only the pins( .jpg images )
+
 Dependencies:
   1.  urllib (pip install urllib2)  
   2.  selenium (pip install selenium)
