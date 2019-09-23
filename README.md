@@ -6,5 +6,5 @@ Dependencies:
   1.  urllib (pip install urllib2)  
   2.  selenium (pip install selenium)
   
-Selenium uses firefox to work so it needs geckodriver: https://github.com/mozilla/geckodriver/releases. Download and extract .exe in
-the same folder with downloadPinterestBoardImages.py
+Selenium uses firefox to work so it needs geckodriver: https://github.com/mozilla/geckodriver/releases. Download and extract geckodriver.exe file in the same folder with downloadPinterestBoardImages.py.
+Also make a folder named 'images' to save the downloaded pinterest pins.
